@@ -120,8 +120,9 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student in the Mechanical Engineering program at the University of Minnesota. I received a B.Eng. degree in Electronic and Electrical Engineering from Obafemi Awolowo University (OAU), Nigeria, in 2018. His research interests include neurotechnology, robotic systems, and embedded systems.
-\nPrior to beginning my doctoral studies, I worked as a Research Assistant at the Advanced Engineering and Innovation Research Group, Minna, Nigeria. In this role, I led the Fabrication of Intelligent Wireless Mobile Phone Battery Charger project. I also ran a professional graphics design business on the side, where I helped small businesses craft their logos and brand identity visuals.
-\nI have a strong background in electronics, electrical engineering, and computer science. My research interests are interdisciplinary and focus on the development of new technologies that can improve the lives of people.
-In my spare time, I enjoy DIY projects, playing sports, and graphic design. I am also a member of the IEEE and the Society for Neuroscience.
+I am a Ph.D. student in the Mechanical Engineering program at the University of Minnesota. I received a B.Eng. degree in Electronic and Electrical Engineering from Obafemi Awolowo University (OAU), Nigeria, in 2018. His research interests include neurotechnology, robotic systems, and embedded systems. 
+
+Prior to beginning my doctoral studies, I worked as a Research Assistant at the Advanced Engineering and Innovation Research Group, Minna, Nigeria. In this role, I led the Fabrication of Intelligent Wireless Mobile Phone Battery Charger project. I also ran a professional graphics design business on the side, where I helped small businesses craft their logos and brand identity visuals.
+
+In my spare time, I enjoy DIY projects, playing sports, and graphic design.
 {style="text-align: justify;"}
