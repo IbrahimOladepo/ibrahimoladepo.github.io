@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ibrahim Oladepo
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ibrahim
+last_name: Oladepo
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Minnesota
+    url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -120,5 +120,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ibrahim Oladepo is a Ph.D. student in the Mechanical Engineering program at the University of Minnesota. He received his B.Eng. degree in Electronic and Electrical Engineering from Obafemi Awolowo University (OAU), Nigeria, in 2018. His research interests include neurotechnology, robotic systems, and embedded systems.
+Prior to beginning his doctoral studies, Ibrahim worked as a Research Assistant at the Advanced Engineering and Innovation Research Group, Minna, Nigeria. In this role, he led the Fabrication of Intelligent Wireless Mobile Phone Battery Charger project. He also ran a professional graphics design business on the side, where he helped small businesses craft their logos and brand identity visuals.
+Ibrahim is a skilled engineer with a strong background in electronics, electrical engineering, and computer science. He is also a creative thinker and problem solver. His research interests are interdisciplinary and focus on the development of new technologies that can improve the lives of people.
+In his spare time, Ibrahim enjoys DIY projects, playing sports, and graphic design. He is also a member of the IEEE and the Society for Neuroscience.
 {style="text-align: justify;"}
