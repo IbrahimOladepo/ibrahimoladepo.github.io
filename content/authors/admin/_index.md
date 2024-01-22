@@ -25,26 +25,27 @@ organizations:
     url: https://twin-cities.umn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neuroengineering, embedded systems, agritech, and robotics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroengineering
+  - Embedded Systems
+  - Agritech
+  - Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Mechanical Engineering
+      institution: University of Minnesota
+      year: In View
+    - course: MS in Mechanical Engineering
+      institution: University of Minnesota
+      year: In View
+    - course: BSc in Electronic and Electrical Engineering
+      institution: Obafemi Awolowo university
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
